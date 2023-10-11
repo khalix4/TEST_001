@@ -1,6 +1,6 @@
 public class Maths {
     int addTwoNumbers(int one, int two){
-        return 0;
+        return one + two;
     }
     public boolean checkPrime(int number){
         boolean flag = true;
